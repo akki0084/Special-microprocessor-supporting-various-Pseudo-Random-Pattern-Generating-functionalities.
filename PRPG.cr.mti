@@ -1,0 +1,8 @@
+C:/altera/15.0/Project2_P2/CA3_t7b.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Project2_P2/CA3_t7b.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module CA3_t7a
+
+Top level modules:
+	CA3_t7a
+
+} {} {}}
